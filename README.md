@@ -1,4 +1,6 @@
 # Quiz-App
+Built a quiz app using Flutter and Dart to practice fundamental programming concepts. Included multiple-choice questions on a range of topics and provided a result after completion. Demonstrated proficiency in mobile app development and programming fundamentals.
+
 
 ## Start Screen
 ![image](https://user-images.githubusercontent.com/73073786/233748195-d2d82a81-8680-4fd0-864b-41c0d81f3ce7.png)
